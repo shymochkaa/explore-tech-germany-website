@@ -5,7 +5,7 @@
 
 ## 📍 Project Overview
 
-Explore Germany is a responsive website designed to showcase the diverse cities and tech landscape of Germany. **This project was created as part of [Scrimba Frontend Developer Career Path](https://scrimba.com/learn/frontend) assignment. Section- Responsive Design** The site highlights various German cities, focusing on their technological innovations, cultural significance, and unique characteristics.
+Explore Germany is a responsive website designed to showcase the diverse cities and tech landscape of Germany. **This project was created as part of [Scrimba Frontend Developer Career Path](https://scrimba.com/learn/frontend) assignment. Section - Responsive Design.** The site highlights various German cities, focusing on their technological innovations, cultural significance, and unique characteristics.
 
 ## 🌟 Key Features
 
